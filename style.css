@@ -1,0 +1,22 @@
+h1 {
+    color: black;
+}
+
+p {
+    font-weight: bold;
+    font-family: 'verdana';
+    font-style: italic;
+    font-size: larger;
+}
+
+.veggie {
+    color:teal;
+}
+
+#first-item {
+    border-top:fuchsia thick dashed;
+}
+ul{
+    font-family: Arial;
+    font-weight: bold;
+}
